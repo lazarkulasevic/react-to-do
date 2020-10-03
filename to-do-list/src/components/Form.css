@@ -1,0 +1,61 @@
+.Form-ul {
+    margin: 0 0 40px;
+    padding: 0;
+}
+
+.Form-li {
+    overflow: hidden;
+    position: relative;
+    list-style-type: none;
+    margin: 10px;
+    background-color: #1988b4;
+    border-radius: 5px;
+}
+
+.Form-li p {
+    text-align: left;
+    padding: 15px 80px 15px 15px;
+    margin: 0;
+}
+
+.Form-li button {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 70px;
+    background-color: #126b8f;
+    color: white;
+    border: none;
+}
+
+.Form-li button:hover {
+    cursor: pointer;
+    background-color: #0e5672;
+}
+
+.Form-input,
+.Form-submit {
+    padding: 15px 20px;
+    color: white;
+    border: none;
+}
+
+.Form-input {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: #363c47;
+    width: 300px;
+}
+
+.Form-submit {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: #279bc9;
+    font-weight: bold;
+}
+
+.Form-submit:hover {
+    cursor: pointer;
+    background-color: #1e91be;
+}
