@@ -59,3 +59,13 @@
     cursor: pointer;
     background-color: #1e91be;
 }
+
+@media (max-width: 540px) {
+    .Form-li {
+        max-width: 96vw;
+    }
+
+    .Form-input {
+        width: 200px;
+    }
+}
