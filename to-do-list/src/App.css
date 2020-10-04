@@ -37,11 +37,11 @@
 .App-developer {
     text-align: center;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .App-developer span {
     color: #79d3f1;
-    font-size: 20px;
 }
 
 .App-developer a {
