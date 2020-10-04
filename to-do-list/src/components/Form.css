@@ -60,7 +60,7 @@
     background-color: #1e91be;
 }
 
-@media (max-width: 540px) {
+@media only screen and (max-width: 540px) {
     .Form-li {
         max-width: 96vw;
     }
