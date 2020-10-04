@@ -45,7 +45,7 @@
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     background-color: #363c47;
-    width: 300px;
+    width: 200px;
 }
 
 .Form-submit {
@@ -60,7 +60,7 @@
     background-color: #1e91be;
 }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 420px) {
     .Form-li {
         max-width: 96vw;
     }
